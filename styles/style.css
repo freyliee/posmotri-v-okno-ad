@@ -89,11 +89,6 @@ ol {
   object-position: center;
 }
 
-.result__video-container .preloader {
-  position: absolute;
-  inset: 0;
-}
-
 /* Форма поиска */
 
 .search-form {
@@ -227,11 +222,6 @@ ol {
   margin: 0;
   padding: 0;
   list-style: none;
-}
-
-.content__list-container .preloader {
-  position: absolute;
-  inset: 0;
 }
 
 /* Карточки видео */
